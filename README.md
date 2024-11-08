@@ -11,5 +11,5 @@ If you have any problems, please reach out to support on the LearnCS8.com homepa
 
 -Bio 500 words
 site desc
-socials
+twitter
 work exp
